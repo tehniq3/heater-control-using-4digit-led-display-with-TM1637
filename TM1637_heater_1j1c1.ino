@@ -2,7 +2,9 @@
 // changed TM1637 library by niq_ro for degree, r & h letter
 // chronometer on TM1637 LED display by niq_ro from http://www.tehnic.go.ro
 // & http://arduinotehniq.com/
-// version 1j1c - 28.04.2016, Craiova
+// version 1j1c1 - 28.04.2016, Craiova
+// power control: bottom, upper or both resistors
+// time control from 1minute to 99 minutes
 
 #include "TM1637.h"
  
